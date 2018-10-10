@@ -27,6 +27,6 @@
 24. Data Science is tough ?
 
 
-Quiz(Kahoot) and Video - Rafsal Rahim
-Debate(Group event, Select one technology)- Basith Hameem
+Quiz(Kahoot) and Video - Rafsal Rahim 
+Debate(Group event, Select one technology)- Basith Hameem 
 Logo Perception- Akshay
