@@ -1,6 +1,7 @@
 # List of subjects
-Blockchain- Basith, Rafsal, Amal, Nandhakishore VV
-Why NodeJS- Amal , Rafsal
+
+1. Blockchain- Basith, Rafsal, Amal, Nandhakishore VV
+2. Why NodeJS- Amal , Rafsal
 Cyber Physical System and Industry 4.0- Nandhakishore VV
 Bio-inspired AI- Sandra
 Why Git is Important- Abhilash
