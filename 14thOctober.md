@@ -30,3 +30,6 @@
 Quiz(Kahoot) and Video - Rafsal Rahim 
 Debate(Group event, Select one technology)- Basith Hameem 
 Logo Perception- Akshay
+
+
+https://hacktoberfest.digitalocean.com/
