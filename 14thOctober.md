@@ -22,6 +22,11 @@
 20. Stepping into the industry- Devika
 21. Machine Learning- Janmasree
 -------------------------------------------------------------------
-Natural Language Processing
-Social Network Analysis
-Data Science is tough ?
+22. Natural Language Processing
+23. Social Network Analysis
+24. Data Science is tough ?
+
+
+Quiz(Kahoot) and Video - Rafsal Rahim
+Debate(Group event, Select one technology)- Basith Hameem
+Logo Perception- Akshay
