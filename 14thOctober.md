@@ -2,25 +2,25 @@
 
 1. Blockchain- Basith, Rafsal, Amal, Nandhakishore VV
 2. Why NodeJS- Amal , Rafsal
-Cyber Physical System and Industry 4.0- Nandhakishore VV
-Bio-inspired AI- Sandra
-Why Git is Important- Abhilash
-The all rounder “Python”- Aswin
-Image processing and Computer Vision is same ?- Rahul
-Chatbot-Dialogflow- Rafsal
-Why developers should use Linux ?- Aswin, Abhilash
-Can I develop an OS ?- Aswin
-How to think like a researcher ?- Akshay, Aswin
-Contribute | Conquer- Aswin, Basith
-MOOC , the change maker- Akshay
-Meetups and Hackathon- Rafsal Rahim
-Native & Cross Platform Mobile app development- Basith Hameem
-Contextual Computing- Basith Hameem
-Game Engines, Unity- Joju
-The art of Interview- Sandra, Anjali, Devika
-Frameworks- Keerthana
-Stepping into the industry- Devika
-Machine Learning- Janmasree
+3. Cyber Physical System and Industry 4.0- Nandhakishore VV
+4. Bio-inspired AI- Sandra
+5. Why Git is Important- Abhilash
+6. The all rounder “Python”- Aswin
+7. Image processing and Computer Vision is same ?- Rahul
+8. Chatbot-Dialogflow- Rafsal
+9. Why developers should use Linux ?- Aswin, Abhilash
+10. Can I develop an OS ?- Aswin
+11. How to think like a researcher ?- Akshay, Aswin
+12. Contribute | Conquer- Aswin, Basith
+13. MOOC , the change maker- Akshay
+14. Meetups and Hackathon- Rafsal Rahim
+15. Native & Cross Platform Mobile app development- Basith Hameem
+16. Contextual Computing- Basith Hameem
+17. Game Engines, Unity- Joju
+18. The art of Interview- Sandra, Anjali, Devika
+19. Frameworks- Keerthana
+20. Stepping into the industry- Devika
+21. Machine Learning- Janmasree
 -------------------------------------------------------------------
 Natural Language Processing
 Social Network Analysis
